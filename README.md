@@ -21,3 +21,4 @@ Campus PUCP - San Miguel
   - [Covid Deaths](https://www.datosabiertos.gob.pe/dataset/fallecidos-por-covid-19-ministerio-de-salud-minsa)
   - [Covid cases](https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa)
   - [Elections](https://infogob.jne.gob.pe/) 
+* The codes can be run directly from [COLAB](https://drive.google.com/drive/folders/1lT7S30k5timJTzSItk5O7UbygrPr8TqT?usp=sharing)
